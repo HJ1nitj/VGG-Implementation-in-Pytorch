@@ -1,1 +1,1 @@
-# VGG-Implementation-in-Pytorch-
+# VGG Implementation in Pytorch
