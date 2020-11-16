@@ -1,0 +1,7 @@
+{
+    "TRAIN_IMAGE_DIR":"",
+    "TEST_IMAGE_DIR":"",
+    "TRAINING_LABEL_FILE_PATH":"",
+    "IMAGE_SIZE":224,
+    "N_EPOCHS":30
+}
